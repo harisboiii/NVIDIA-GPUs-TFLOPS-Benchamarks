@@ -36,7 +36,7 @@ The chart includes the following GPUs:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/gpu-tflops-comparison.git
+    git clone https://github.com/harisboiii/gpu-tflops-comparison.git
     cd gpu-tflops-comparison
     ```
 
